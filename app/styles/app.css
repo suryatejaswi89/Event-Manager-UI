@@ -1,0 +1,11 @@
+.btn-block{
+    margin: 1em;
+}
+.login-container{
+    position: absolute;
+    right: 4em;
+    bottom: 7em;
+}
+.navbar{
+    margin-bottom: 0px;
+}
